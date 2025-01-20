@@ -2,4 +2,4 @@
 
 Something cool here
 
-Anothing cool thing
+Another cool thing
